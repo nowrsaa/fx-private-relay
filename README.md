@@ -1,4 +1,4 @@
-<p align="center">
+j5oywj1e9@mozmail.com<p align="center">
 <img src="https://raw.githubusercontent.com/mozilla/fx-private-relay/11ad17e197e23a0453bfb74fa3670c87cfc35e36/frontend/src/components/landing/images/logo-firefox-relay.svg" width="250" />
 </p>
 
